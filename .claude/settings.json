@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "additionalDirectories": [
+      "C:\\Users\\PC-YM\\mad-money\\scripts"
+    ],
+    "allow": [
+      "Bash(powershell.exe -NoProfile -Command \"& ''C:\\\\Python313\\\\python.exe'' ''C:\\\\Users\\\\PC-YM\\\\mad-money\\\\scripts\\\\generate_pptx.py''; exit $LASTEXITCODE\")",
+      "Bash(echo \"exit: $?\")"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+# 生成ファイル（毎回生成されるので不要）
+outputs/
+
+# Claude Code ローカル設定
+.claude/settings.local.json
+
+# Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
